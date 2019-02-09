@@ -1,7 +1,5 @@
 module.exports = {
-  /*
-  ** Headers of the page
-  */
+  mode: 'universal',
   head: {
     title: 'podcasthub',
     meta: [
@@ -13,17 +11,11 @@ module.exports = {
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ]
   },
-  /*
-  ** Customize the progress bar color
-  */
   loading: { color: '#3B8070' },
-  /*
-  ** Build configuration
-  */
   build: {
-    /*
-    ** Run ESLint on save
-    */
+    vendor: [
+      'bootstrap-vue'
+    ],
     extend (config, { isDev, isClient }) {
       if (isDev && isClient) {
         config.module.rules.push({
@@ -34,6 +26,8 @@ module.exports = {
         })
       }
     }
-  }
+  },
+  modules: [    
+    ['bootstrap-vue/nuxt', { css: false }]
+  ]
 }
-
