@@ -28,6 +28,15 @@ module.exports = {
     }
   },
   modules: [    
-    ['bootstrap-vue/nuxt', { css: false }]
+    ['bootstrap-vue/nuxt', { css: false }],
+    ['nuxt-fontawesome', {
+      component: 'fa', 
+      imports: [        
+        {
+          set: '@fortawesome/free-solid-svg-icons',
+          icons: ['fas']
+        }
+      ]
+    }]
   ]
 }

@@ -13,8 +13,10 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@fortawesome/free-solid-svg-icons": "^5.7.1",
     "bootstrap-vue": "^2.0.0-rc.11",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.0.0",
+    "nuxt-fontawesome": "^0.4.0"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",

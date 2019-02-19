@@ -19,7 +19,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "http://icebox.5by5.tv/images/broadcasts/67/cover_quarter.jpg"
  },
  {
    "url": "http://5by5.tv/webahead",
@@ -30,7 +30,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "http://5by5.tv/assets/overlays/retired-d2d54f9781344cf8f6d74ec00bfb09a8.png"
  },
  {
    "url": "http://androidbackstage.blogspot.com/",
@@ -52,7 +52,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://media.simplecast.com/episode/image/148222/thumb_1526818297-artwork.jpg"
  },
  {
    "url": "http://bikeshed.fm/",
@@ -85,10 +85,10 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://chrissanders.org/wp-content/uploads/2017/03/scpodcast_banner-768x210.png"
  },
  {
-   "url": "http://codeand.us/",
+   "url": "http://codeand.us/series/code-cast/",
    "name": "Code & Cast",
    "host": "",
    "category": "general, programming,tech,software development",
@@ -96,18 +96,18 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "http://codeand.us/wp-content/uploads/2016/01/logo-6.png"
  },
  {
    "url": "http://codercatchup.com/",
    "name": "Coder Catchup",
-   "host": "",
+   "host": "Jaymie Jones",
    "category": "web, web development,web developers, web designers",
    "description": "Catching up with various web developers, web designers and unicorns",
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://media.simplecast.com/podcast/logo_image/381/logo-site.png"
  },
  {
    "url": "http://completedeveloperpodcast.com/",
@@ -118,7 +118,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "Tuesdays",
-   "logo": ""
+   "logo": "https://completedeveloperpodcast.com/wp-content/uploads/2016/01/mainsiteimagelg.jpg"
  },
  {
    "url": "http://cppcast.com/",
@@ -129,7 +129,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": "http://cppcast.com/"
+   "logo": "http://cppcast.com/images/logo@2x.png"
  },
  {
    "url": "http://creativecodingpodcast.com/",
@@ -140,7 +140,7 @@
    "languages": "English",
    "updates": "weekly",
    "broadcast": "",
-   "logo": "http://a2.mzstatic.com/us/r30/Music/v4/36/a4/c4/36a4c474-2cfe-e25d-5d73-7e1052968069/cover170x170.jpeg"
+   "logo": "http://creativecodingpodcast.com/wp-content/uploads/2013/03/xccMasthead.jpg.pagespeed.ic.Nj9jsiMjHG.webp"
  },
  {
    "url": "http://datadrivensecurity.info/podcast/",
@@ -151,7 +151,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "http://datadrivensecurity.info/podcast/theme/images/ddspc.png"
  },
  {
    "url": "http://destinationlinux.org/",
@@ -162,18 +162,18 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://destinationlinux.org/wp-content/uploads/2019/02/dl107-hd-thumbnail-300x169.jpg"
  },
  {
    "url": "http://developeronfire.com/",
    "name": "Developer on Fire",
-   "host": "",
+   "host": "Dave Rael",
    "category": "general, programming,tech,software",
    "description": "Stories from inspiring people in and around software",
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://developeronfire.com/assets/images/home-logo.png"
  },
  {
    "url": "http://devnaestrada.com.br",
@@ -184,7 +184,7 @@
    "languages": "Portuguese",
    "updates": "weekly",
    "broadcast": "Friday",
-   "logo": "https://devnaestrada.com.br/assets/img/logo-dne.svg"
+   "logo": "https://devnaestrada.com.br/assets/img/cover-photo.jpg"
  },
  {
    "url": "http://devopscafe.org/",
@@ -195,18 +195,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": "http://devopscafe.org/"
- },
- {
-   "url": "http://elixirfountain.com/",
-   "name": "Elixir Fountain",
-   "host": "",
-   "category": "elixir,javascript",
-   "description": "Bringing you the News & Interviews from around the Elixir Community",
-   "languages": "English",
-   "updates": "",
-   "broadcast": "",
-   "logo": ""
+   "logo": "http://devopscafe.org/storage/DevOpsCafe_Banner5.png"
  },
  {
    "url": "http://feeds.feedburner.com/blogspot/AndroidDevelopersBackstage",
@@ -242,17 +231,6 @@
    "logo": "https://media.simplecast.com/podcast/image/1684/1474255312-artwork.jpg"
  },
  {
-   "url": "http://fragmentedpodcast.com/category/episodes/",
-   "name": "Fragmented Podcast",
-   "host": "",
-   "category": "mobile,development,android",
-   "description": "An Android Developer Podcast",
-   "languages": "English",
-   "updates": "",
-   "broadcast": "",
-   "logo": ""
- },
- {
    "url": "http://frontendfriday.fi/",
    "name": "Front End Friday",
    "host": "",
@@ -261,29 +239,18 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://pbs.twimg.com/profile_images/3590729782/66dc604d77d8b8cb729c6e113a707364_400x400.jpeg"
  },
  {
    "url": "http://frontendhappyhour.com/",
    "name": "frontendhappyhour",
    "host": "Ryan Burgess",
-   "category": "Javascript, front end developement, build tools, web development",
+   "category": "Javascript, frontend, build tools, web development",
    "description": "A podcast featuring a panel of Software Engineers from Netflix, Evernote, Atlassian & LinkedIn talking over drinks about all things Front End development.",
    "languages": "English",
    "updates": "Every alternative week",
    "broadcast": "Every alternative week",
    "logo": "http://frontendhappyhour.com/public/img/front-end-happy-hour.svg"
- },
- {
-   "url": "http://gnuworldorder.info/",
-   "name": "GNU World Order",
-   "host": "",
-   "category": "unix,gnu,linux,bsd",
-   "description": "An internet audio show about GNU, Linux, UNIX, and other technical and geeky topics",
-   "languages": "English",
-   "updates": "",
-   "broadcast": "",
-   "logo": ""
  },
  {
    "url": "http://hanselminutes.com/",
@@ -294,7 +261,7 @@
    "languages": "English",
    "updates": "weekly",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://i.scdn.co/image/1b6820024065071ee8b4fbb4aeffb9c220b6d579"
  },
  {
    "url": "http://herdingcode.com/",
@@ -305,7 +272,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "http://herdingcode.com/wp-content/uploads/herdingCode-150x150.png"
  },
  {
    "url": "http://https//www.owasp.org/index.php/OWASP_Podcast",
@@ -481,7 +448,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": "https://aws.amazon.com/podcasts/aws-podcast/"
+   "logo": "https://d1.awsstatic.com/events/aws-hosted-events/2018/APAC/logo_aws_techchattv.70e96f8c30bf3766c44135bf4fd2d0ab2548a625.jpg"
  },
  {
    "url": "https://aws.amazon.com/podcasts/aws-techchat/",
@@ -492,7 +459,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": "https://aws.amazon.com/podcasts/aws-techchat/"
+   "logo": "https://d1.awsstatic.com/podcasts/aws-podcast-banner.07f1b5b98d7b9919184a27359e4885d608336e0e.png"
  },
  {
    "url": "https://blog.codepen.io/radio/",
@@ -569,7 +536,7 @@
    "languages": "English",
    "updates": "weekly",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://cdn.changelog.com/uploads/covers/go-time-medium.png?v=63688781289"
  },
  {
    "url": "https://changelog.com/jsparty",
@@ -580,7 +547,7 @@
    "languages": "English",
    "updates": "weekly",
    "broadcast": "Friday",
-   "logo": "https://cdn.changelog.com/uploads/convers/js-party-medium.png?v=63688781367"
+   "logo": "https://cdn.changelog.com/uploads/covers/js-party-medium.png?v=63688781367"
  },
  {
    "url": "https://changelog.com/podcast",
@@ -591,7 +558,7 @@
    "languages": "English",
    "updates": "weekly",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://cdn.changelog.com/uploads/covers/the-changelog-medium.png?v=63688781273"
  },
  {
    "url": "https://changelog.com/rfc",
@@ -602,7 +569,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://cdn.changelog.com/uploads/covers/request-for-commits-medium.png?v=63688781321"
  },
  {
    "url": "https://communitypulse.io/",
@@ -624,7 +591,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://corecursive.com/wp-content/uploads/2019/01/podcast-art-300x300.jpg"
  },
  {
    "url": "https://danielmiessler.com/podcast/",
@@ -635,7 +602,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://danielmiessler.com/images/UL-Logo-Blog-640-Wide-copy.png"
  },
  {
    "url": "https://darknetdiaries.com/",
@@ -679,7 +646,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://devchat.tv/wp-content/uploads/2016/04/angular-thumb-1400x1400.jpg"
  },
  {
    "url": "https://devchat.tv/freelancers",
@@ -690,7 +657,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://devchat.tv/wp-content/uploads/2016/04/freelancers_show_thumb.jpg"
  },
  {
    "url": "https://devchat.tv/iphreaks",
@@ -701,7 +668,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://devchat.tv/wp-content/uploads/2016/04/iPhreaks-thumb.jpg"
  },
  {
    "url": "https://devchat.tv/js-jabber/",
@@ -723,7 +690,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://devchat.tv/wp-content/uploads/2016/05/rails-clips-thumbnail-1400x1400.jpg"
  },
  {
    "url": "https://devchat.tv/react-native-radio/",
@@ -745,7 +712,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://devchat.tv/wp-content/uploads/2016/04/ruby-rogues-thumb.jpg"
  },
  {
    "url": "https://devchat.tv/teachmetocode",
@@ -756,7 +723,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": "https://devchat.tv/teachmetocode"
+   "logo": "https://devchat.tv/wp-content/uploads/2018/03/Logo-website.jpg"
  },
  {
    "url": "https://devchat.tv/web-sec-warriors",
@@ -767,7 +734,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://devchat.tv/wp-content/uploads/2016/04/logo_3000x3000.jpeg"
  },
  {
    "url": "https://developsec.libsyn.com/",
@@ -778,7 +745,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://assets.libsyn.com/secure/content/32212781/?height=90&width=90"
  },
  {
    "url": "https://devops.com/",
@@ -803,17 +770,6 @@
    "logo": "https://i.imgur.com/25fmJtC.png"
  },
  {
-   "url": "https://elmtown.audio/",
-   "name": "Elm Town",
-   "host": "",
-   "category": "elm,javascript",
-   "description": "About the people making and using the Elm language",
-   "languages": "English",
-   "updates": "",
-   "broadcast": "",
-   "logo": ""
- },
- {
    "url": "https://fivejs.codeschool.com/",
    "name": "5-Minutes of JavaScript",
    "host": "",
@@ -833,7 +789,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://d9hhrg4mnvzow.cloudfront.net/foundercoffee.salesflare.com/d9396f38-salesflare-icon-1024x1024-transp_01c01c01c01c000000.png"
  },
  {
    "url": "https://freecodecamp.libsyn.com/",
@@ -866,7 +822,7 @@
    "languages": "English",
    "updates": "Weekly",
    "broadcast": "Weekly",
-   "logo": "https://geekspeak.org//assets/GeekSpeak_title_300w-94c7a7e0537f564893a3e56a1fbc125c2e72f58c2316cef67d21e31c5b133dbf.png"
+   "logo": "https://geekspeak.org/assets/GeekSpeak_title_300w-94c7a7e0537f564893a3e56a1fbc125c2e72f58c2316cef67d21e31c5b133dbf.png"
  },
  {
    "url": "https://github.com/artem-zinnatullin/TheContext-Podcast",
@@ -899,7 +855,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://1uh1puzyb6-flywheel.netdna-ssl.com/wp-content/themes/shoptalk2/images/shoptalk_logo.png"
  },
  {
    "url": "https://iotpodcast.com/",
@@ -932,7 +888,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://isc.sans.edu/images/stormcastlogo144.jpg"
  },
  {
    "url": "https://itunes.apple.com/us/podcast/how-to-start-a-startup/id922398209?mt=2",
@@ -943,7 +899,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://is2-ssl.mzstatic.com/image/thumb/Music117/v4/b8/2b/b7/b82bb79a-805a-37f4-b003-c8db4b97aa02/source/170x170bb.jpg"
  },
  {
    "url": "https://itunes.apple.com/us/podcast/startup-school-radio/id992277217?mt=2",
@@ -954,7 +910,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://is1-ssl.mzstatic.com/image/thumb/Music71/v4/d3/9b/25/d39b25c4-d29d-b8be-1d9f-32aeda3a2fc5/source/170x170bb.jpg"
  },
  {
    "url": "https://itunes.apple.com/us/podcast/the-indie-hackers-podcast/id1206165808?mt=2#",
@@ -965,7 +921,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/3c/28/1a/3c281a77-12b1-8482-c17e-f8a1d917aa4b/source/170x170bb.jpg"
  },
  {
    "url": "https://javascriptair.com/",
@@ -976,7 +932,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://pbs.twimg.com/profile_images/665177206243495936/2RsNy5iV_400x400.png"
  },
  {
    "url": "https://jstoelm.com/",
@@ -987,7 +943,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://jstoelm.com/static/photo.0912bba7.png"
  },
  {
    "url": "https://learntocodewith.me/podcast/",
@@ -1020,7 +976,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://pbs.twimg.com/profile_images/1012230646951919616/4xSzze2x_400x400.jpg"
  },
  {
    "url": "https://mundopodcast.com.br/podprogramar",
@@ -1042,7 +998,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://i1.sndcdn.com/avatars-000115856938-s0r47h-t120x120.jpg"
  },
  {
    "url": "https://pathtoperf.com/",
@@ -1075,7 +1031,7 @@
    "languages": "English",
    "updates": "weekly",
    "broadcast": "",
-   "logo": "https://media.simplecast.com/podcast/image/1386/1454987525-artwork.jpg"
+   "logo": "https://spec.fm/static/img/shows/dnc.jpg"
  },
  {
    "url": "https://podcast.forloop.africa/",
@@ -1100,17 +1056,6 @@
    "logo": ""
  },
  {
-   "url": "https://puppet.com/podcast_feed",
-   "name": "Puppet Podcast",
-   "host": "",
-   "category": "operation,devops,puppet",
-   "description": "The Puppet Podcast features Puppet community members talking about the latest trends in configuration management & cloud automation as well as DevOps culture",
-   "languages": "English",
-   "updates": "",
-   "broadcast": "",
-   "logo": ""
- },
- {
    "url": "https://pythonbytes.fm/",
    "name": "Python Bytes",
    "host": "",
@@ -1119,7 +1064,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://pythonbytes.fm/static/img/banner_750.png"
  },
  {
    "url": "https://react30.com/",
@@ -1141,7 +1086,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://media.simplecast.com/podcast/logo_image/7265/smaller_20logo.png"
  },
  {
    "url": "https://remoteruby.transistor.fm/",
@@ -1152,7 +1097,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://images.transistor.fm/images/logos/site/54/medium_Remote_Ruby_Solo.png"
  },
  {
    "url": "https://ruby5.codeschool.com/",
@@ -1232,17 +1177,6 @@
    "logo": "https://shoptalkshow.com/wp-content/themes/shoptalk2/images/shoptalk_logo.png"
  },
  {
-   "url": "https://show.spacedojo.com/",
-   "name": "Space Dojo Show",
-   "host": "",
-   "category": "javascript",
-   "description": "A roundtable podcast about Javascript",
-   "languages": "English",
-   "updates": "",
-   "broadcast": "",
-   "logo": ""
- },
- {
    "url": "https://simpleprogrammer.com/podcasts/",
    "name": "Simple Programmer",
    "host": "",
@@ -1251,7 +1185,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://spzone-simpleprogrammer.netdna-ssl.com/wp-content/uploads/2016/06/SPLOGOREPL.svg"
  },
  {
    "url": "https://softskills.audio/",
@@ -1262,7 +1196,7 @@
    "languages": "English",
    "updates": "weekly",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://softskills.audio/img/logo-transparent-bg.png"
  },
  {
    "url": "https://softwareengineeringdaily.com/",
@@ -1284,7 +1218,7 @@
    "languages": "English",
    "updates": "weekly",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://i1.sndcdn.com/artworks-000201865380-anie2f-t200x200.jpg"
  },
  {
    "url": "https://soundcloud.com/digitaloceanpodcast",
@@ -1295,7 +1229,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://i1.sndcdn.com/artworks-000482428863-eqb1nv-t200x200.jpg"
  },
  {
    "url": "https://soundcloud.com/lambda-cast",
@@ -1306,7 +1240,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://i1.sndcdn.com/artworks-000387133341-j1l5tv-t200x200.jpg"
  },
  {
    "url": "https://soundcloud.com/user-121566285",
@@ -1328,7 +1262,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://i1.sndcdn.com/avatars-000246385916-5mrw9i-t200x200.jpg"
  },
  {
    "url": "https://spec.fm/podcasts/developer-tea",
@@ -1353,17 +1287,6 @@
    "logo": "https://spec.fm/static/img/shows/orthogonal.jpg"
  },
  {
-   "url": "https://stelligent.com/tag/podcasts/",
-   "name": "DevOps on AWS Radio",
-   "host": "",
-   "category": "operation,devops,aws",
-   "description": "DevOps on AWS Radio covers topics on applying DevOps principles and practices such as Continuous Delivery on the AWS cloud",
-   "languages": "English",
-   "updates": "",
-   "broadcast": "",
-   "logo": ""
- },
- {
    "url": "https://Syntax.fm",
    "name": "Syntax",
    "host": "",
@@ -1372,7 +1295,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://syntax.fm/static/logo.png"
  },
  {
    "url": "https://talkpython.fm/",
@@ -1394,7 +1317,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://i1.sndcdn.com/avatars-000227802710-27eerh-t200x200.jpg"
  },
  {
    "url": "https://theagilerevolution.com/",
@@ -1427,7 +1350,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://thecyberwire.com/podcasts/images/CyberWire-iTunes_Cover-1.jpg"
  },
  {
    "url": "https://theriseoffrontendengineering.com/podcast/",
@@ -1438,7 +1361,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://theriseoffrontendengineering.com/images/podcastartwork_sm.png"
  },
  {
    "url": "https://thewomenintechshow.com/",
@@ -1449,7 +1372,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://wintshow.files.wordpress.com/2016/06/transparente.png?w=1000"
  },
  {
    "url": "https://threatpost.com/category/podcasts/",
@@ -1465,24 +1388,24 @@
  {
    "url": "https://twit.tv/shows/floss-weekly",
    "name": "FLOSS Weekly",
-   "host": "",
+   "host": "Randal Schwartz, Aaron Newcomb",
    "category": "general, programming,tech,opensource",
    "description": "A weekly talk show with the most interesting and important people in the Open Source and Free Software community",
    "languages": "English",
    "updates": "weekly",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/images/shows/floss_weekly/album_art/floss1400.jpg?itok=hgBbz4q2"
  },
  {
    "url": "https://twit.tv/shows/security-now",
    "name": "Security Now",
-   "host": "",
+   "host": "Steve Gibson, Leo Laporte",
    "category": "security",
    "description": "A discussion of hot topics in security today",
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/images/shows/security_now/album_art/sn1400.jpg?itok=YztEDW4P"
  },
  {
    "url": "http://styleguides.io/podcast/",
@@ -1507,17 +1430,6 @@
    "logo": "https://pbs.twimg.com/profile_images/710962547378114560/vdzuNeel_400x400.jpg"
  },
  {
-   "url": "https://wildermuth.com/hwpod",
-   "name": "Hello World Podcast",
-   "host": "",
-   "category": "Beginner,newbie,programming",
-   "description": "Interviews with your favorite speakers about how they got started",
-   "languages": "English",
-   "updates": "",
-   "broadcast": "",
-   "logo": "https://wildermuth.com/hwpod"
- },
- {
    "url": "https://womenwhocoderadio.blogspot.com/",
    "name": "Women Who Code Blogposts",
    "host": "",
@@ -1526,7 +1438,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://tequilarista.hipcast.com/albumart/1003_1549744624.jpg"
  },
  {
    "url": "https://www.appsecpodcast.org/",
@@ -1548,7 +1460,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": "https://www.arresteddevops.com/apple-touch-icon.png"
+   "logo": "https://pbs.twimg.com/profile_images/761290596640174080/eLRJ-RrG_400x400.jpg"
  },
  {
    "url": "https://www.badvoltage.org/",
@@ -1559,7 +1471,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://pbs.twimg.com/profile_images/595424618711748608/3cPd1D9s_400x400.jpg"
  },
  {
    "url": "https://www.briefs.fm/go-gab",
@@ -1570,7 +1482,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://briefs-production.s3.amazonaws.com/cover_art/63/gopherbw-1.png"
  },
  {
    "url": "https://www.cloudtp.com/doppler/podcasts/",
@@ -1592,18 +1504,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
- },
- {
-   "url": "https://www.docker.com/",
-   "name": "DockerCast",
-   "host": "",
-   "category": "operation,devops,docker",
-   "description": "Dockercast is the official Docker Podcast which covers a wide range of topics including products, projects and contributions from active community members and partners with our host, Docker’s very own – John Willis",
-   "languages": "English",
-   "updates": "",
-   "broadcast": "",
-   "logo": ""
+   "logo": "https://pbs.twimg.com/profile_images/882604828614156289/COz-uMMH_400x400.jpg"
  },
  {
    "url": "https://www.embedded.fm/",
@@ -1625,13 +1526,13 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://www.functionalgeekery.com/wp-content/cache/podlove/02/531ee088f7bf3317a94b498831307c/functional-geekery_200x200.jpg"
  },
  {
    "url": "https://www.gcppodcast.com/",
    "name": "Google Cloud Platform Podcast",
    "host": "Melanie Warrick and Mark Mandel",
-   "category": "Javascript, front end developement, build tools, web development",
+   "category": "Javascript, frontend, build tools, web development",
    "description": "The Google Cloud Platform Podcast, coming to you every week. Discussing everything from on Google Cloud Platform from App Engine to Big Query.",
    "languages": "English",
    "updates": "Weekly",
@@ -1650,17 +1551,6 @@
    "logo": "https://elroycdn.twit.tv/sites/default/files/styles/twit_album_art_600x600/public/images/shows/security_now/album_art/sn1400.jpg"
  },
  {
-   "url": "https://www.greaterthancode.com/podcast/",
-   "name": "Greater Than Code",
-   "host": "",
-   "category": "general, programming,tech",
-   "description": "The podcast for coders who care by coders who care",
-   "languages": "English",
-   "updates": "",
-   "broadcast": "",
-   "logo": ""
- },
- {
    "url": "https://www.heavybit.com/library/podcasts/jamstack-radio/",
    "name": "JAMStack Radio",
    "host": "",
@@ -1669,7 +1559,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://www.heavybit.com/wp-content/uploads/2016/08/jamstack-radio-1024x1024.jpg"
  },
  {
    "url": "https://www.heavybit.com/library/podcasts/to-be-continuous/",
@@ -1680,10 +1570,10 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://www.heavybit.com/wp-content/uploads/2016/04/to-be-continuous-1024x1024.jpg"
  },
  {
-   "url": "https://www.kennethreitz.org/import-this/",
+   "url": "https://soundcloud.com/import-this",
    "name": "Import This",
    "host": "",
    "category": "python",
@@ -1691,7 +1581,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://i1.sndcdn.com/avatars-000071020498-2ent92-t200x200.jpg"
  },
  {
    "url": "https://www.mappingthejourney.com/",
@@ -1702,7 +1592,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://mappingthejourney.com/wp-content/uploads/2017/07/logo.png"
  },
  {
    "url": "https://www.mythpodcast.com/",
@@ -1717,7 +1607,7 @@
  },
  {
    "url": "https://www.podcastinit.com/",
-   "name": "Podcast.__.init__(Python’)",
+   "name": "Podcast.__.init__ (Python’)",
    "host": "Tobias Macey",
    "category": "Python",
    "description": "Podcast.__.init focuses on the technical details of writing in Python and is valuable for anyone building an application of their own.",
@@ -1746,7 +1636,7 @@
    "languages": "English",
    "updates": "Seasonal",
    "broadcast": "Every 2 week",
-   "logo": "https://www.redhat.com/cms/managed-files/thumb-clh-500x500.png"
+   "logo": "https://media.simplecast.com/podcast/image/3909/1535059689-artwork.jpg"
  },
  {
    "url": "https://www.smashingsecurity.com/",
@@ -1757,7 +1647,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://images.fireside.fm/podcasts/images/d/dd3252a8-95c3-41f8-a8a0-9d5d2f9e0bc6/header.jpg"
  },
  {
    "url": "https://www.social-engineer.org/category/podcast/",
@@ -1768,7 +1658,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://www.social-engineer.org/wp-content/themes/social-engineer-2017/images/logo-small@2x.png"
  },
  {
    "url": "https://www.softwaredefinedtalk.com/",
@@ -1779,7 +1669,7 @@
    "languages": "English",
    "updates": "weekly",
    "broadcast": "",
-   "logo": ""
+   "logo": "https://images.fireside.fm/podcasts/images/9/9b74150b-3553-49dc-8332-f89bbbba9f92/cover_small.jpg"
  },
  {
    "url": "https://www.sprintuxpodcast.com/",
@@ -1856,7 +1746,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": "https://media.simplecast.com/podcast/image/1088/small_1452002405-artwork.jpg"
+   "logo": "https://media.simplecast.com/podcast/image/1088/small_1484757948-artwork.jpg"
  },
  {
    "url": "http://thecloudcast.net/",
@@ -1867,7 +1757,7 @@
    "languages": "English",
    "updates": "weekly",
    "broadcast": "",
-   "logo": "http://thecloudcast.net/"
+   "logo": "https://www.buzzsprout.com/rails/active_storage/representations/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUs3RlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1c2c617ed736e2c081a0359fc8cf276392a4d868/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VWTI5dFltbHVaVjl2Y0hScGIyNXpld282QzNKbGMybDZaVWtpRFRZd01GZzJNREJlQmpvR1JWUTZER2R5WVhacGRIbEpJZ3RqWlc1MFpYSUdPd2RVT2d0bGVIUmxiblJKSWd3Mk1EQllOakF3QmpzSFZEb01jWFZoYkdsMGVXbFZPZzlqYjJ4dmNuTndZV05sU1NJSmMxSkhRZ1k3QjFRPSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--b26c9959b09c16d5cb0707201c716b3ff6665acb/The%20Cloudcast%20Icon.jpg"
  },
  {
    "url": "http://thecyberwire.com/podcasts",
@@ -1988,7 +1878,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": "http://www.devopsmastery.com/"
+   "logo": "https://static1.squarespace.com/static/52edde06e4b0358dd4deab53/t/52f3261de4b00e69a8f5ea32/1391666760347/DevOpsMasteryPostsLogo5.png?format=500w"
  },
  {
    "url": "http://www.dotnetrocks.com/",
@@ -2109,7 +1999,7 @@
    "languages": "English",
    "updates": "",
    "broadcast": "",
-   "logo": "https://cdn2.player.fm/images/1213301/series/xz1DiaECk43TFCuL/512.png"
+   "logo": "https://uploads-ssl.webflow.com/5a9e6c4d3dd0520001f5b761/5adefde84a787c98f0add8e5_Modern%20Web-05-05-min.png"
  },
  {
    "url": "http://www.modern-web.org/#/modern-web-podcast",
@@ -2164,7 +2054,7 @@
    "languages": "English",
    "updates": "Weekly",
    "broadcast": "Tuesdays",
-   "logo": "https://s3.amazonaws.com/codenewbie-assets/codenewbie+hashtag+logo.png"
+   "logo": "https://s3.amazonaws.com/codenewbie-assets/medium/thorsten-ball-2.jpg?1549295599"
  },
  {
    "url": "www.dotnetrocks.com",

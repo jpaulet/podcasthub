@@ -18,5 +18,6 @@
 		border-radius:6px;
 		color:#333;
 		text-decoration: none;
+		display:inline-block;
 	}
 </style>
