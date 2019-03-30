@@ -41,12 +41,6 @@ module.exports = {
         }
       ]
     }],
-    ['@nuxtjs/axios'],
-    ['@nuxtjs/google-analytics', {
-      id: ''
-    }],
-  ],
-  axios: {
-    // proxyHeaders: false
-  }
+    ['@nuxtjs/axios']
+  ]
 }

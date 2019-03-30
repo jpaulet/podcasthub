@@ -2,63 +2,24 @@
   <section class="container">
     <div style='height:100%;width:100%;overflow: hidden;'>
       <div class='row headerBanner'>  
-        <h1 class="title col-xs-12 col-sm-7">
+        <h1 class="title col-xs-12 col-sm-6">
           podcastStash 
           <fa icon='microphone-alt' />
         </h1>
 
-        <div class='hidden-xs col-sm-5' style='padding:30px 10px;text-align: right;'>
-          <a href='https://jpaulet.typeform.com/to/TJOlbG' target='_blank' class='bmc-button' style='font-size:13px;text-decoration: none;margin-right:8px !important;vertical-align:top;'>Add Podcast</a>
+        <div class='hidden-xs col-sm-6' style='padding:30px 10px;text-align: right;'>
+          <a href='https://jpaulet.typeform.com/to/TJOlbG' target='_blank' class='bmc-button' style='font-size:11px;text-decoration: none;margin-right:8px !important;vertical-align:top;'>Add Podcast</a>
 
-          <style>
-            .bmc-button img{
-              width: 27px !important;
-              margin-bottom: 1px !important;
-              box-shadow: none !important;
-              border: none !important;
-              vertical-align: middle !important;
-            }
-            .bmc-button{
-              vertical-align: top;
-              line-height: 36px !important;
-              height:37px !important;
-              text-decoration: none !important;
-              display:inline-flex !important;
-              color:#000000 !important;
-              background-color:#ffffffb5 !important;
-              border-radius: 6px !important;
-              border: 1px solid transparent !important;
-              padding: 0px 9px !important;
-              font-size: 17px !important;
-              letter-spacing:-0.08px !important;
-              box-shadow: 0px 1px 2px rgba(190, 190, 190, 0.5) !important;
-              -webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;
-              margin: 5px auto !important;
-              font-family:'Lato', sans-serif !important;
-              -webkit-box-sizing: border-box !important;
-              box-sizing: border-box !important;
-              -o-transition: 0.3s all linear !important;
-              -webkit-transition: 0.3s all linear !important;
-              -moz-transition: 0.3s all linear !important;
-              -ms-transition: 0.3s all linear !important;
-              transition: 0.3s all linear !important;
-            }
-            .bmc-button:hover, .bmc-button:active, .bmc-button:focus {
-              -webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;
-              text-decoration: none !important;
-              box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;
-              opacity: 0.85 !important;
-              color:#000000 !important;
-            }
-          </style>
           <link href="https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext" rel="stylesheet">
           <a class="bmc-button" target="_blank" href="https://www.buymeacoffee.com/mpSEk0R">
-            <img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Support My Work">
-            <span style="margin-left:5px">Support My Work</span>
+            <img src="https://www.buymeacoffee.com/assets/img/BMC-btn-logo.svg" alt="Support My Work" style='height:20px;margin-top:3px;'>
+            <span style="margin-left:5px;">Support My Work</span>
           </a>
-        </div>
-        
+        </div> 
+      </div>
 
+      <div class='textWrapper col-xs-12' style='margin-top:15px;margin-bottom:25px;'> 
+        <span style='text-decoration: underline;'>Hand-picked</span> list with <span style='font-size:16px;background-color: rgba(255, 255, 255, 0.19);border-radius:6px;padding:3px 6px;'>+{{ podcasts.length }}</span> awesome podcasts for makers, designers, programmers & more! <fa icon='microphone-alt' />
       </div>
 
       <div class='filterList' style='padding:10px 20px 30px;'>
@@ -81,10 +42,6 @@
             {{tag}}
           </b-form-checkbox-group>
         </div> 
-
-        <div class='textWrapper col-xs-12' style='margin-top:25px;margin-bottom:20px;'> 
-          <span style='text-decoration: underline;'>Hand-picked</span> list with <span style='font-size:16px;background-color: rgba(255, 255, 255, 0.19);border-radius:6px;padding:3px 6px;'>+{{ podcasts.length }}</span> awesome podcasts for makers, designers, programmers & more! <fa icon='microphone-alt' />
-        </div>
       </div>
 
       <div class='podcastsBox' style='margin-bottom:80px;clear:both;'>
@@ -343,5 +300,42 @@ html{
   color:#fff;
   font-weight: 600;
   margin-top:5px;
+}
+
+.bmc-button img{
+  width: 27px !important;
+  margin-bottom: 1px !important;
+  box-shadow: none !important;
+  border: none !important;
+  vertical-align: middle !important;
+}
+.bmc-button{
+  vertical-align: top;
+  line-height: 26px !important;
+  height:27px !important;
+  text-decoration: none !important;
+  display:inline-flex !important;
+  color:#000000 !important;
+  background-color:#ffffffb5 !important;
+  border-radius: 6px !important;
+  border: 1px solid transparent !important;
+  padding: 0px 9px !important;
+  font-size: 12px !important;
+  margin: 5px auto !important;
+  font-family:'Lato', sans-serif !important;
+  -webkit-box-sizing: border-box !important;
+  box-sizing: border-box !important;
+  -o-transition: 0.3s all linear !important;
+  -webkit-transition: 0.3s all linear !important;
+  -moz-transition: 0.3s all linear !important;
+  -ms-transition: 0.3s all linear !important;
+  transition: 0.3s all linear !important;
+}
+.bmc-button:hover, .bmc-button:active, .bmc-button:focus {
+  -webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;
+  text-decoration: none !important;
+  box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;
+  opacity: 0.85 !important;
+  color:#000000 !important;
 }
 </style>
