@@ -14,6 +14,8 @@
   },
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^5.7.1",
+    "@nuxtjs/axios": "^5.3.6",
+    "@nuxtjs/google-analytics": "^2.1.0",
     "bootstrap-vue": "^2.0.0-rc.11",
     "nuxt": "^2.0.0",
     "nuxt-fontawesome": "^0.4.0"
@@ -23,6 +25,19 @@
     "eslint": "^4.19.1",
     "eslint-friendly-formatter": "^4.0.1",
     "eslint-loader": "^2.1.1",
-    "eslint-plugin-vue": "^4.0.0"
-  }
+    "eslint-plugin-vue": "^4.0.0",
+    "node-sass": "^4.7.2",
+    "precss": "^2.0.0",
+    "sass-loader": "^6.0.6"
+  },
+  "browserslist": [
+    "Chrome >= 45",
+    "Firefox ESR",
+    "Edge >= 12",
+    "Explorer >= 10",
+    "iOS >= 9",
+    "Safari >= 9",
+    "Android >= 4.4",
+    "Opera >= 30"
+  ]
 }

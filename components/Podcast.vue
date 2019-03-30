@@ -6,13 +6,13 @@
 	    img-alt="Image"
 	    img-top
 	    tag="article"
-	    style="max-width: 12rem;width:100%;min-width:200px;min-height:122px;overflow:hidden;"
 	    class="mb-2"
 	    :class="(podcast.logo ? '' : 'shadow')">
 
 	    <b-badge class='podcast-lang'> {{podcast.languages | twoLetter }} </b-badge>
 
 	    <p v-if='podcast.host' class='podcast-host'>by {{podcast.host}}</p> 
+
 	    <p class="card-text">
 	      {{podcast.description}}		  
 	    </p>
@@ -23,7 +23,7 @@
 	      		:key="`${podcast.name}-tag-${index}`" />
 	    </div>
 	    <div class='podcast-url' style='width:95%;overflow:hidden;'>
-	    	<b-button :href="podcast.url" variant="primary" target='_blank'>{{podcast.url}}</b-button>
+	    	<b-button :href="podcast.url" variant="primary" target='_blank' style='background-color:none;'>{{podcast.url}}</b-button>
 	    	<fa icon="external-link-alt" class='external-link' />
 	    </div>
 	  </b-card>
@@ -58,17 +58,59 @@ export default {
 </script>
 
 <style scoped>
+	.btn{
+		padding:0px;
+		background-color:transparent;		
+	}
 	.podcast-box{
 		display:inline-flex;
-		margin:10px 15px;
+		margin:20px 15px;
 		border-radius:6px;
-		box-shadow: 0 0.5px 0 0 #ffffff inset, 0 1px 2px 0 #B3B3B3;
+		/*box-shadow: 0 0.5px 0 0 #ffffff inset, 0 1px 2px 0 #B3B3B3;*/
+		background-color: #fff;
+		vertical-align: top;
 	}
 	.podcast-box:hover{
 		-webkit-box-shadow: 0 3px 2px #777;
 		-moz-box-shadow: 0 3px 2px #777;
 		box-shadow: 0 3px 2px #777;
 	}
+
+	.podcast-box article{
+		max-width: 12rem;
+		width:30vw;
+		min-width:300px;
+		min-height:235px;
+		overflow:hidden;
+		padding:10px 5px;
+		cursor:pointer;
+	}
+
+
+	@media (max-width: 1005px){
+		.podcast-box article{
+			min-width: 30vw;
+		}
+	}
+
+	@media (max-width: 675px){
+		.podcast-box{
+			margin:10px 7px;
+		}
+		.podcast-box article{
+			min-width: 45vw;
+		}
+	}
+
+	@media (max-width: 430px){
+		.podcast-box{
+			margin:10px 7px;
+		}
+		.podcast-box article{
+			min-width: 90vw;
+		}
+	}
+
 	.podcast-url{
 		float:left;
 		padding-left:22px;
@@ -87,29 +129,30 @@ export default {
 		float:right;
 		font-size:9px;
 		position:relative;
-		top:-16px;
-		right:6px;
+		top:-42px;
+		right:-3px;
 		cursor:pointer;
+		opacity:0.66;
 	}
 	.card-title{
 		text-align: left;
-		font-size:14px;
-		padding:10px 20px 0px;
-		width:94%;
+		font-size:18px;
+		padding:20px 20px 0px;
 	}
 	.card-img-top {
-	    width: 100%;
-	    height: 12vw;
-	    max-height:250px;
+	    width: 60px;
+	    height: 60px;
+	    float:left;
+	    margin:15px;
+	    border-radius:50px;
 	    object-fit: cover;
-	    border-top-right-radius: 6px;
-	    border-top-left-radius: 6px;
-	    min-height:120px;
+	    
 	}
 	.card-text{
-		padding:10px 20px 15px;
+		padding:0px 20px 15px;
 		text-align: justify;
 		font-size:12px;
+		clear:both;
 	}
 	.shadow > .card-img-top{
 		opacity:0.6;

@@ -16,7 +16,7 @@ module.exports = {
     vendor: [
       'bootstrap-vue'
     ],
-    extend (config, { isDev, isClient }) {
+    extend(config, { isDev, isClient }) {
       if (isDev && isClient) {
         config.module.rules.push({
           enforce: 'pre',
@@ -27,16 +27,26 @@ module.exports = {
       }
     }
   },
-  modules: [    
+  css: [
+    '@/assets/app.scss' // use our build, as entered via app.scss
+  ],
+  modules: [
     ['bootstrap-vue/nuxt', { css: false }],
     ['nuxt-fontawesome', {
-      component: 'fa', 
-      imports: [        
+      component: 'fa',
+      imports: [
         {
           set: '@fortawesome/free-solid-svg-icons',
           icons: ['fas']
         }
       ]
-    }]
-  ]
+    }],
+    ['@nuxtjs/axios'],
+    ['@nuxtjs/google-analytics', {
+      id: ''
+    }],
+  ],
+  axios: {
+    // proxyHeaders: false
+  }
 }

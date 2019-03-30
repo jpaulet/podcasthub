@@ -10,10 +10,10 @@
 
 <style>
 	.badge{
-		font-size:11px;
+		font-size:10px;
 		margin-right:6px;
 		border:1px solid #ccc;
-		padding:1px 3px;
+		padding:2px 5px;
 		background-color: #eee;
 		border-radius:6px;
 		color:#333;
