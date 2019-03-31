@@ -1,13 +1,13 @@
 <template>
   <section class="container">
-    <div style='height:100%;width:100%;overflow: hidden;'>
+    <div id='mainPage' style='height:100%;width:100%;overflow: hidden;'>
       <div class='row headerBanner'>  
         <h1 class="title col-xs-12 col-sm-6">
           podcastStash 
           <fa icon='microphone-alt' />
         </h1>
 
-        <div class='hidden-xs col-sm-6' style='padding:30px 10px;text-align: right;'>
+        <div class='headerButtons hidden-xs col-sm-6' style='padding:30px 10px;text-align: right;'>
           <a href='https://jpaulet.typeform.com/to/TJOlbG' target='_blank' class='bmc-button' style='font-size:11px;text-decoration: none;margin-right:8px !important;vertical-align:top;'>Add Podcast</a>
 
           <link href="https://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext" rel="stylesheet">
@@ -18,7 +18,7 @@
         </div> 
       </div>
 
-      <div class='textWrapper col-xs-12' style='margin-top:15px;margin-bottom:25px;'> 
+      <div class='textWrapper col-xs-12' style='margin-top:15px;margin-bottom:25px;line-height:22px;'> 
         <span style='text-decoration: underline;'>Hand-picked</span> list with <span style='font-size:16px;background-color: rgba(255, 255, 255, 0.19);border-radius:6px;padding:3px 6px;'>+{{ podcasts.length }}</span> awesome podcasts for makers, designers, programmers & more! <fa icon='microphone-alt' />
       </div>
 
@@ -156,186 +156,3 @@ export default {
   }
 };
 </script>
-
-<style>
-html{
-  min-width:362px;
-}
-.container {
-  min-height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  background-color: #0e2439 !important;
-  margin:0px;
-}
-
-.headerBanner{
-  background-color:rgba(0, 0, 0, 0.5);
-  padding:0px 20px;
-  height:100px;
-}
-
-.title {
-  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont,
-    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
-  display: block;
-  font-weight: 600;
-  font-size: 30px;
-  letter-spacing: 1px;
-  margin-bottom: 10px;
-  text-align:left;
-  padding:30px 15px;
-  color:rgb(156, 179, 201);
-  margin-top:2px;
-  margin-bottom:0px;
-}
-
-.searchInput{
-  border-radius:6px;
-  border:1px solid #ccc;
-  padding:6px 8px;
-  box-shadow:none;
-  opacity:0.75;
-}
-
-.searchInput:focus{
-  opacity:1;
-  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
-}
-
-.filterList{
-  margin:20px auto;
-  height:30px;
-  clear:both;
-}
-
-.searchIcon{
-  font-size:11px;
-  color:rgb(156, 179, 201);
-  margin-left:-24px;
-  z-index:9999;
-  cursor:pointer;
-}
-
-.filterTagButton{
-  float:left;
-  background-color: #c2c8cd; 
-  border:0px;
-  border-radius:8px;
-  padding:7px 10px;
-  color:#555;
-}
-
-.btn{
-  background-color: #c2c8cd; 
-  border:0px;
-  border-radius:8px;
-  padding:7px 10px;
-  color:#0e2439;
-  margin-top:8px;
-  cursor:pointer;
-  margin-right:8px;
-}
-
-.filterTags{
-  float:left;
-  width:100%;
-  padding:20px 10px;
-  clear:both;
-}
-
-.tagCheckbox{
-  outline:0px;
-}
-
-.tagCheckbox .btn{
-  display:inline-block;
-  font-size:11px;
-  color:#eee;
-  margin: 3px 5px;
-  padding: 3px 6px;
-  border-radius: 4px;
-  background-color: #ffffff3d;
-  cursor:pointer;
-}
-
-.tagCheckbox .active{
-  background-color: #000;
-  box-shadow: 0 0 5px rgba(81, 203, 238, 1);
-}
-
-.tagCheckbox label{
-  padding:4px;
-  margin:-4px;
-  cursor:pointer;
-}
-
-.tagCheckbox .btn input{
-  display:none;
-}
-
-.closeButton{
-  border-radius:18px;
-  border:0px;
-  height:20px;
-  width:20px;
-  line-height:12px;
-  font-size:12px;
-  float:right;
-  cursor:pointer;
-}
-
-.expandInfo{
-  color:#fff;
-  font-size:13px;
-  float:left;
-  margin-left:55px;
-  margin-top:5px;
-  height:;
-}
-
-.textWrapper{
-  color:#fff;
-  font-weight: 600;
-  margin-top:5px;
-}
-
-.bmc-button img{
-  width: 27px !important;
-  margin-bottom: 1px !important;
-  box-shadow: none !important;
-  border: none !important;
-  vertical-align: middle !important;
-}
-.bmc-button{
-  vertical-align: top;
-  line-height: 26px !important;
-  height:27px !important;
-  text-decoration: none !important;
-  display:inline-flex !important;
-  color:#000000 !important;
-  background-color:#ffffffb5 !important;
-  border-radius: 6px !important;
-  border: 1px solid transparent !important;
-  padding: 0px 9px !important;
-  font-size: 12px !important;
-  margin: 5px auto !important;
-  font-family:'Lato', sans-serif !important;
-  -webkit-box-sizing: border-box !important;
-  box-sizing: border-box !important;
-  -o-transition: 0.3s all linear !important;
-  -webkit-transition: 0.3s all linear !important;
-  -moz-transition: 0.3s all linear !important;
-  -ms-transition: 0.3s all linear !important;
-  transition: 0.3s all linear !important;
-}
-.bmc-button:hover, .bmc-button:active, .bmc-button:focus {
-  -webkit-box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;
-  text-decoration: none !important;
-  box-shadow: 0px 1px 2px 2px rgba(190, 190, 190, 0.5) !important;
-  opacity: 0.85 !important;
-  color:#000000 !important;
-}
-</style>

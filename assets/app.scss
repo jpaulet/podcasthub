@@ -24,7 +24,7 @@ html{
     "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
   display: block;
   font-weight: 600;
-  font-size: 30px;
+  font-size: 24px;
   letter-spacing: 1px;
   margin-bottom: 10px;
   text-align:left;
@@ -833,7 +833,7 @@ html{
   }
 }
 
-@media (max-width:668px){
+@media (max-width:768px){
   .hidden-xs{
     display:none;
   }
